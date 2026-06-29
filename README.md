@@ -1,1 +1,1 @@
-python初学者的简单pytho项目
+python初学者的简单python项目
